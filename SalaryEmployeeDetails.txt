@@ -1,0 +1,4 @@
+Name           AgeDept     Salary ST
+Jhon Doe       30HR       500000NY
+John Smith     25IT       600000YT
+Alice Johnson  43IT       800000NZ
